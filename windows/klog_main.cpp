@@ -6,7 +6,7 @@
 
 // defines whether the window is visible or not
 // should be solved with makefile, not in this file
-#define visible // (visible / invisible)
+#define invisible // (visible / invisible)
 
 // variable to store the HANDLE to the hook. Don't declare it anywhere else then globally
 // or you will get problems since every function uses this variable.
